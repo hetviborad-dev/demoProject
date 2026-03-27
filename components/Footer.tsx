@@ -8,7 +8,7 @@ import { motion } from 'motion/react';
 export default function Footer() {
   return (
     <footer id="contact" className="bg-[#1a1a1a] text-zinc-300 pt-12 md:pt-16 pb-8 border-t border-zinc-800 relative overflow-hidden">
-      {/* Background Texture Overlay */}
+      {/* Background Texture Overly */}
       <div className="absolute inset-0 opacity-10 pointer-events-none" style={{ backgroundImage: 'url("https://www.transparenttextures.com/patterns/stardust.png")' }}></div>
       
       <motion.div 
